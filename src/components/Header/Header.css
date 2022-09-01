@@ -197,11 +197,12 @@
     .search-container {
         max-width: 100%;
         height: 10px;
+        border-radius: 2.5px;
         /* color: gray; */
     }
     
     .search-btn {
-        width: 5%;
+        width: 10px;
         height: 10px;
         /* background-color: rgb(241, 241, 241);
         border: 10px solid rgb(241, 241, 241);
@@ -227,8 +228,8 @@
     }
     
     .search-btn {
-        height: 10px;
         width: 15%;
+        height: 10px;
         /* background-color: rgb(241, 241, 241);
         border: 10px solid rgb(241, 241, 241);
         border-radius: 50%; */
@@ -236,7 +237,6 @@
     
     .input {
         font-size: 5px;
-        line-height: 10px;
         width: 85%;
     }
 
@@ -255,7 +255,7 @@
     
     .search-btn {
         height: 10px;
-        width: 35%;
+        width: 30%;
         /* background-color: rgb(241, 241, 241);
         border: 10px solid rgb(241, 241, 241);
         border-radius: 50%; */
@@ -264,7 +264,7 @@
     .input {
         font-size: 5px;
         line-height: 10px;
-        width: 65%;
+        width:60%;
     }
 
 }
